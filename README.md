@@ -2,7 +2,7 @@
 
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vini259)
 
-## Minhas estatísticas
+## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMacielCoppa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMacielCoppa&show_icons=true&)
 
