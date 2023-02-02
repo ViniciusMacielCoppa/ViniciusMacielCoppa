@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMacielCoppa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmacielcoppa&show_icons=true&theme=radical)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmacielcoppa&show_icons=true)
 
 <h2>Linguagens e tecnologias que eu utilizo</h2>
 
